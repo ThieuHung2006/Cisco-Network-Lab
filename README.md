@@ -26,8 +26,6 @@ Thực hiện lab Cisco Packet Tracer để:
 
 ### Hình ảnh cấu hình/diagram mạng
 
-![Network Diagram](https://github.com/user-attachments/assets/f63cb965-7c1b-4ea9-a685-151cc3a02ae2)
-*ip
 
 ### Ping test
 ![Ping lan10](https://github.com/user-attachments/assets/f63cb965-7c1b-4ea9-a685-151cc3a02ae2)
@@ -35,6 +33,7 @@ Thực hiện lab Cisco Packet Tracer để:
 
 ### Cấu hình IP Route ISP
 ![IP Route ISP](https://github.com/user-attachments/assets/d32db53c-5529-4522-a4d7-cdf04ec8be54)
+![IP Route ISP](https://github.com/user-attachments/assets/5f94789f-03af-48a7-8a50-4fd35a42e352)
 *Hình 2: Cấu hình IP Route từ ISP, lưu ý lỗi không ping được ra ngoài mạng*
 
 ### Lỗi cấu hình IP tĩnh
