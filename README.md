@@ -27,11 +27,10 @@ Thực hiện lab Cisco Packet Tracer để:
 ### Hình ảnh cấu hình/diagram mạng
 
 ![Network Diagram](https://github.com/user-attachments/assets/f63cb965-7c1b-4ea9-a685-151cc3a02ae2)
-*Hình 1: Diagram tổng thể mô tả VLAN và Routing giữa các thiết bị*
+*ip
 
 ### Ping test
-![Ping lan10](https://github.com/user-attachments/assets/adf2af43-597b-46ef-bafd-b3ce8f567773)
-![Ping lan20](https://github.com/user-attachments/assets/5f94789f-03af-48a7-8a50-4fd35a42e352)
+![Ping lan10](https://github.com/user-attachments/assets/f63cb965-7c1b-4ea9-a685-151cc3a02ae2)
 *Ghi chú: Ping thử LAN 10 và LAN 20*
 
 ### Cấu hình IP Route ISP
