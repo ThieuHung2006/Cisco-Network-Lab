@@ -10,8 +10,7 @@ Thực hiện lab Cisco Packet Tracer để:
 - Cisco Packet Tracer (version 8.x hoặc mới hơn)
 - PC/Router/Switch Devices trong Packet Tracer
 - Command Line: ping, tracert, show commands, SSH
-![Network Diagram]<img width="1001" height="498" alt="Screenshot 2025-11-20 111042" src="https://github.com/user-attachments/assets/adf2af43-597b-46ef-bafd-b3ce8f567773" />
-
+![Network Diagram](https://github.com/user-attachments/assets/adf2af43-597b-46ef-bafd-b3ce8f567773)
 
 *Hình 1: Diagram mô tả VLAN và Routing giữa các thiết bị*
 
