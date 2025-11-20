@@ -23,18 +23,21 @@ Thực hiện lab Cisco Packet Tracer để:
 6. Khắc phục lỗi kết nối và phân tích lưu lượng
 
 ## File và hình ảnh
-- Hình ảnh cấu hình/diagram mạng:
 
-![Network Diagram]()<img width="1910" height="983" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/f63cb965-7c1b-4ea9-a685-151cc3a02ae2" />
+### Hình ảnh cấu hình/diagram mạng
 
+![Network Diagram](https://github.com/user-attachments/assets/f63cb965-7c1b-4ea9-a685-151cc3a02ae2)
+*Hình 1: Diagram tổng thể mô tả VLAN và Routing giữa các thiết bị*
 
-*Hình 1: Diagram mô tả VLAN và Routing giữa các thiết bị*
-![Network Diagram](https://github.com/user-attachments/assets/adf2af43-597b-46ef-bafd-b3ce8f567773)
-<img width="1908" height="964" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/5f94789f-03af-48a7-8a50-4fd35a42e352" />
+### Ping test
+![Ping lan10](https://github.com/user-attachments/assets/adf2af43-597b-46ef-bafd-b3ce8f567773)
+![Ping lan20](https://github.com/user-attachments/assets/5f94789f-03af-48a7-8a50-4fd35a42e352)
+*Ghi chú: Ping thử LAN 10 và LAN 20*
 
-*Hình 1: Diagram mô tả VLAN và Routing giữa các thiết bị*
-![Network Diagram](https://github.com/user-attachments/assets/adf2af43-597b-46ef-bafd-b3ce8f567773)
-<img width="1920" height="1016" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/d32db53c-5529-4522-a4d7-cdf04ec8be54" />
+### Cấu hình IP Route ISP
+![IP Route ISP](https://github.com/user-attachments/assets/d32db53c-5529-4522-a4d7-cdf04ec8be54)
+*Hình 2: Cấu hình IP Route từ ISP, lưu ý lỗi không ping được ra ngoài mạng*
 
-*Hình 1: Diagram mô tả VLAN và Routing giữa các thiết bị*
-<img width="1920" height="979" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/02c51723-7d51-40c6-999c-d862042b857e" />
+### Lỗi cấu hình IP tĩnh
+![IP Static Error](https://github.com/user-attachments/assets/02c51723-7d51-40c6-999c-d862042b857e)
+*Hình 3: Lỗi cấu hình sai IP static, không ping được cùng 1 LAN*
